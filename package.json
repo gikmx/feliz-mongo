@@ -1,0 +1,27 @@
+{
+  "name": "feliz-mongo",
+  "version": "0.0.1",
+  "description": "A plugin for feliz.js that enables mongo.",
+  "main": "lib/index.js",
+  "author": "Héctor Menéndez <etor@gik.mx>",
+  "license": "MIT",
+  "analyze": true,
+  "keywords": [
+    "feliz",
+    "plugin",
+    "mongo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gikmx/feliz-mongo"
+  },
+  "bugs": {
+    "url": "https://github.com/gikmx/feliz-mongo/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.0"
+  }
+}
